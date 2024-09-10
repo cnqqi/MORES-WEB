@@ -1,0 +1,146 @@
+body {
+    font-family: Helvetica;
+    margin: 0;
+    padding:0;
+  }
+ 
+header {
+      border-bottom: 2px solid #FFB000; /* Warna hijau gelap (#006400) */
+
+    }
+
+.row-logo502{
+  border-radius: 5px;
+  width: 200px;
+  height: 100px;
+  margin: 0 auto;
+}
+
+@media screen and (max-width: 475px) {
+  #logo502{
+    width: 100%;
+    border-radius: 50%;
+    background-color: #FFB000
+  }
+}
+
+.logo502{
+  width: 250px;
+  height: 250px;
+  margin: 0 auto;
+}
+.logoz502{
+  width: 150px;
+  height: 150px;
+}
+
+h5 {
+  color: white;
+}
+
+.header502 {
+  display: flex;
+}
+
+.gem502 {
+  margin-right: 10px;
+  color: white;
+}
+
+.menuleft502{
+margin-top: 25px;
+padding: 0px 15px;
+  
+}
+
+.tittle502{
+  color: white;
+  font-weight:600;
+  padding: 0 15px;
+  margin-bottom: 10px;
+  padding-top: 200px;
+}
+
+#oplogo502{
+  margin-top: 30px;
+}
+
+span {
+  padding-right: 5px;
+}
+
+.menuleft502 a {
+  text-decoration: none;
+  color:white;
+  font-weight: bolder;
+
+}
+
+
+.menuleft502 li {
+  padding: 10px 0;
+  padding-left: 50px;
+  border-bottom: #FFB000 2px solid;
+}
+
+
+
+.leftsidebar502{
+  padding: 0;
+  padding-bottom: 20px;
+  background-color: #004225;
+
+
+}
+
+.tittleupdatee502{
+  color:white;
+  text-align: center;
+  font-weight: 600;
+  
+
+}
+
+.update502 p{
+  color:white;
+  font-size: 12px;
+  padding: 0 15px;
+  text-align: justify;
+}
+
+
+.btn502{
+  background-color: white;
+  color: #004225;
+  margin-top: 5px;
+  font-weight: bold; 
+  align-items: center;
+  border: white 1px solid;
+}
+
+.email502{
+  background-color:#004225;
+  border: #FFB000 1px solid;
+
+}
+
+::placeholder{
+  color: white;
+  font-size: small;
+}
+
+form{
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
+.footer502 {
+  border-top: #FFB000 2px solid;
+  text-align: center;
+  color: white;
+  padding: 10px 5px;
+  background-color:#004225;
+}
+
+
+
